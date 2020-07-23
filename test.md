@@ -2,8 +2,8 @@
 
 ### 초기 작업
 
-git을 가상머신에 설치
-sudo apt install git
+1. git을 가상머신에 설치<br>
+  sudo apt install git
 mkdir <폴더 명> : repostitory 가져올 폴더 만듬
 cd <폴더 명>
 git init
