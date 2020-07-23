@@ -8,14 +8,12 @@
 4. git init
 5. git clone < ... > : repository를 가져옴
 
-
-
 ### git에 파일 올리기
-git add <올릴 파일>
-git commit -m "<할 말>"
-git push origin master
+1. git add <올릴 파일>
+2. git commit -m "<할 말>"
+3. git push origin master
 
-git push ( github 웹에서 수정시 꼭 해야함 )
++ git push ( github 웹에서 수정시 꼭 해야함 )
 
 
 ### user 등록
