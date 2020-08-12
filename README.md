@@ -19,5 +19,3 @@
 2.
 3. test god
 
-
-testtest git
